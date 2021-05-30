@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = "AMLFramework Init."
 
-  spec.homepage     = "http://EXAMPLE/AMLFramework"
+  spec.homepage     = "https://github.com/aimlabs/casino-ios.git"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
