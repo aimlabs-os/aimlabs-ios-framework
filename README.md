@@ -1,2 +1,2 @@
-# casino-ios
-Casino iOS App
+# aimlabs-ios-framework
+Aimlabs IOS Framework
